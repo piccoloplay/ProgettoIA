@@ -15,4 +15,4 @@ cambiate il suo persmesso di esecuzione con il comando "chmod +x randomForest.x8
  https://answers.unity.com/questions/404131/how-to-run-the-exported-game-on-ubuntu.html <- nel caso dovessero incorrere problemi.
 
 La folder RANDOM_Forest serve nel caso si vogliano apportare modifiche al progetto.
-Nel caso scaricare Unity dal seguente link https://unity3d.com/get-unity/download  
+Nel caso scaricare Unity dal seguente link https://unity3d.com/get-unity/download e aprire la folder RANDOM_Forest con Unity.
