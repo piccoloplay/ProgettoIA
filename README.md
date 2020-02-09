@@ -1,9 +1,14 @@
 # ProgettoIA
 Nella seguente Repositorie sono presenti:
+
 -Una relazione PDF: RelazioneRandomForestPlesoiu.pdf
+
 -Una build da poter lanciare direttamente su una versione di Linux: buildlinux
+
 -Una build da poter lanciare direttamente su Windows: buildWindows
+
 -Una folder con il solo codice: Script
+
 -Una folder con il progetto Unity3d: RANDOM_Forest
 
 Primo step, scaricare la relazione dove e' spiegato l'idea che sta dietro al codice. Io penso sia abbastanza esauriente,
