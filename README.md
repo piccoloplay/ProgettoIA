@@ -1,5 +1,6 @@
 # ProgettoIA
 Plesoiu Silviu Robert
+
 Nella seguente Repositorie sono presenti:
 
 -Una relazione PDF: RelazioneRandomForestPlesoiu.pdf
