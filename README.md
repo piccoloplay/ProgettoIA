@@ -1,5 +1,10 @@
 # ProgettoIA
 Plesoiu Silviu Robert
+## Demo
+
+You can watch a demo of the Boids Simulation in action on YouTube:
+
+[![Watch the video](https://img.youtube.com/vi/EAzRXqwtIRA/maxresdefault.jpg)](https://www.youtube.com/watch?v=EAzRXqwtIRA&t=53s)
 
 Nella seguente Repositorie sono presenti:
 
